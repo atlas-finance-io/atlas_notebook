@@ -74,6 +74,7 @@ def dataDataframe(symbols,TradeApp_obj):
 historicalData = dataDataframe(tickers,app)
 
 
+
 ###############################KPIs##############################################
 
 bh_data = historicalData["AMZN"].copy()
