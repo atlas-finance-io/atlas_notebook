@@ -25,3 +25,4 @@ tabulate
 scipy
 plotly
 tradingeconomics
+mpf
